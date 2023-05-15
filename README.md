@@ -2,8 +2,8 @@
 
 ## Description
 
-Features: pagination, sorting by full name or username
-Description: Display 10 users per page, showing their full name, username, and thumbnail icon. Use pagination for navigation to different pages. Use the "Sort by Full Name" button to sort users by their full name, and use the "Sort by Username" button to sort users by their username.
+1.Features: pagination, sorting by full name or username
+2.Description: Display 10 users per page, showing their full name, username, and thumbnail icon. Use pagination for navigation to different pages. Use the "Sort by Full Name" button to sort users by their full name, and use the "Sort by Username" button to sort users by their username.
 Technologies used: ReactJS, TypeScript, Redux Toolkit
 
 ## Installation
